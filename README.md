@@ -1,4 +1,3 @@
-# Data-Science-with-Python
 # Student Productivity & Performance Analysis
 
 This project explores the relationship between study habits, sleep patterns, and academic performance using a dataset of 5,000 students.
